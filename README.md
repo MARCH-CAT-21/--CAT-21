@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/gl8ymnpv4Sqha/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -18,7 +18,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/vxycSTdzw2Gqne16xp/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :kissing_cat: About Me :
