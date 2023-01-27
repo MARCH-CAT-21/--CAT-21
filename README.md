@@ -49,8 +49,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MARCH-CAT-21&theme=blue-green)]
-(https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MARCH-CAT-21)](https://git.io/streak-stats)
+
 
 
 
