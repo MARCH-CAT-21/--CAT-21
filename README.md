@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/gl8ymnpv4Sqha/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://vk.com/">
     <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="https://www.youtube.com/">
@@ -54,6 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MARCH-CAT-21&theme=yellowdark)](https://git.io/streak-stats)
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MARCH-CAT-21)](https://github.com/MARCH-CAT-21/github-readme-stats)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MARCH-CAT-21&bg_color=000000&color=e00606&line=2435b2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
