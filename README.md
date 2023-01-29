@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 Моя статистика :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MARCH-CAT-21&theme=yellowdark)](https://git.io/streak-stats)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MARCH-CAT-21)](https://github.com/rompersStomper/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MARCH-CAT-21)](https://github.com/MARCH-CAT-21/github-readme-stats)
 
 
 
